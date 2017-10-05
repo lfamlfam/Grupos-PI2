@@ -51,8 +51,8 @@ Felipe Vieira Barros
 Ricardo Marcos de Freitas
 
 **ssh**
-PI: Foxtrot Brinquedos
-Daniel Lucindo
-Jorzias
-Filipe Guarnieri
-Adriano
+PI: Kanino Pet Shop
+Daniel Lucindo (github: daniellucindo)
+Jorzias Veras (github: josiasveras)
+Filipe Guarnieri (github: figuarnieri)
+Adriano Costa (github: dricosta)
