@@ -1,25 +1,23 @@
 ###### GRUPOS DO PI ######
 
 *** 100NAC ***
-Daniel Fellipe Palma da Silva
-Mariana Macedo Soares
-Lais Aparecida
 Gustavo da Silva
 
-*DAST*
+***DAST***
+Loja: Kanino
 Ariel Alves
 Danilo Dantas
 Sandra Costa
 Tatiane Santos
 
-**Vexx Devs**
+***Vexx Devs***
 Clayton Oliveira
 Clayton Juliano
 Eduardo Maximiano
 Rodrigo Pazos
 
 ***NO NAME***
-Loja:Hippo
+Loja: Hippo
 Jean Silva Francisco
 Lais Vieira
 Endy Gatto Garcia
@@ -27,31 +25,35 @@ Murilo Domingues Casanova
 Daniel Fellipe
 
 ***Grupo Sem nome 2****
+Loja: Hippo
 Vinicius Martins
 Henrique Anisio
 Tiago Galvao
 Nataly Lima
 
-*Google First*
+***Google First***
+Loja: Gandalf
 Andrei Silva
 Bruno Fagundos
 João Augusto
 Julio CalistA
+Mariana Macedo Soares
 
-=====Grupo_Bar100lona=====
-========Loja Hippo========
+***Grupo_Bar100lona***
+Loja: Hippo
 José Rodrigo Lima Santos
 Luis Felipe Marques Miranda
 Marcelo Borelli Hegedus
 Pedro Henrique Morais Silva
 
-**AFRR Solution**
+***AFRR Solution***
+Loja: Hippo
 Alexandre Alberto Fidalgo	
 Felipe Vieira Barros
 Ricardo Marcos de Freitas
 
-**ssh**
-PI: Foxtrot Brinquedos
+***ssh***
+Loja: Kanino
 Daniel Lucindo
 Jorzias
 Filipe Guarnieri
